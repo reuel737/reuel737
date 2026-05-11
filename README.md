@@ -18,12 +18,11 @@
 
 - Python
 - C++
-- JavaScript / TypeScript
 - Firebase
 - Supabase
 - REST APIs
 - Git & GitHub
-- AI integrations and workflow automation
+- ML-AI integrations (Tensorflow) and workflow automation
 
 ## Projects
 
